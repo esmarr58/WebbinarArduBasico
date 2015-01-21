@@ -1,5 +1,5 @@
  // Nonblocking
-module S3L1B (clk,a,c);
+module S3L1C (clk,a,c);
   input clk;
   input a;
   output c;
